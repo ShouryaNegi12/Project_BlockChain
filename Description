@@ -1,0 +1,36 @@
+Design and implement a basic blockchain system with cryptocurrency 
+functionality for the Indian financial system. The blockchain system should 
+include the following features:
+
+1. Block Creation: Implement a mechanism to create blocks that store 
+transaction data, including the sender, receiver, and amount of each 
+transaction.
+
+2. Mining: Develop a mining process where miners compete to solve a 
+mathematical puzzle to add new blocks to the blockchain. The process 
+should ensure that miners are rewarded for their work.
+
+3. Transaction Validation: Implement a validation mechanism to ensure the 
+integrity and validity of transactions before they are added to the 
+blockchain.
+
+4. Security: Utilize cryptographic algorithms, such as SHA-256, for hashing 
+and digital signatures to ensure the security and confidentiality of 
+transactions.
+
+5. Consensus: Implement a consensus mechanism, such as proof of work, to 
+ensure agreement among participants on the validity of blocks and 
+transactions.
+
+6. Transaction History: Maintain a transaction history by storing the 
+blockchain securely and efficiently, allowing for easy retrieval and 
+verification of past transactions.
+
+7. Cryptocurrency Functionality: Enable the creation of a digital currency 
+that operates on the blockchain system. Implement features such as wallet 
+creation, balance management, and secure transaction handling.
+
+8. Indian Financial System Integration: Consider the specific requirements 
+and regulations of the Indian financial system, including any relevant 
+legal considerations, compliance requirements, and specific functionality 
+needed to align with the Indian financial landscape.
